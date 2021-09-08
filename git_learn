@@ -1,0 +1,7 @@
+git push    //upload files on remote
+git clone _address_ //downloads from remote
+git remote -v   //give a list of remotes
+git commit -m "message" //moves files from stagging into remote
+git add .   //add files to stagging
+git status  //status
+git pull    //updates files from recourse
