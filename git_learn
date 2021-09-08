@@ -5,3 +5,4 @@ git commit -m "message" //moves files from stagging into remote
 git add .   //add files to stagging
 git status  //status
 git pull    //updates files from recourse
+he
