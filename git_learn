@@ -6,3 +6,4 @@ git add .   //add files to stagging
 git status  //status
 git pull    //updates files from recourse
 git fetch   //gets status from remote
+--git ignore    //if you mention a file in a file name .gitignore it wont upload into the git
