@@ -1,0 +1,53 @@
+ls
+works look like dir windows
+shows files in the directory
+
+pwd
+shows the exactly current directory
+
+echo
+ex. echo pwd
+prints pwd
+echo $pwd
+moteqayere pwd ro chap mikone
+
+env
+shows envirenments on system
+
+mv
+move file from somewhere to another
+mv aaa.txt bbb.txt
+moves aaa to bbb
+
+touch
+creates a file
+
+cp
+copy
+
+cat
+cat aaa.txt shows contents of the file
+
+nano
+nano aaa.txt
+open an editor to write or edit files in file
+
+head
+tale
+shows head or end of file
+-3
+shows 3 khate avale file
+
+cd
+move between directorys
+cd ..
+go backward into the back directory
+cd /
+go back to root
+cd ~
+goes to home directory
+
+vi aaa.txt
+an editor
+jadi has a learning video for it
+
